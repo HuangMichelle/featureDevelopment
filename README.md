@@ -29,7 +29,7 @@
 This feature aims to estimate the average percentage of visitors who have made repeat visits to beverage-related establishments (NAICS Code 722515 Snack and Nonalcoholic Beverage Bars) within a specified timeframe. Calculating this metric can provide insights into customer loyalty and engagement, which can be valuable for targeted strategies aimed at retaining and attracting repeat customers.
 
 
-![Target Feature vs AVG Repeat Visitation Rate](<img width="441" alt="feature" src="https://github.com/HuangMichelle/featureDevelopment/assets/131408682/3952e7bc-b912-44b7-8c0b-3d9202fe6a0a">
+![Target Feature vs AVG Repeat Visitation Rate](feature.png)
 )
 ![]()
 
