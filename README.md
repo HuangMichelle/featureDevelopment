@@ -22,10 +22,11 @@
 ### The Code
 [Link to Databricks notebook.]()
 
-## Michelle's Feature: 
+## Michelle's Feature: The Average Repeat Visitation Per Tract Code
 
 ### Description
 
+This feature aims to estimate the average percentage of visitors who have made repeat visits to beverage-related establishments (NAICS Code 722515 Snack and Nonalcoholic Beverage Bars) within a specified timeframe. Calculating this metric can provide insights into customer loyalty and engagement, which can be valuable for targeted strategies aimed at retaining and attracting repeat customers.
 
 
 ![]()
