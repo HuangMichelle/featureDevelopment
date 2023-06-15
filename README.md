@@ -38,6 +38,14 @@ This feature aims to estimate the average percentage of visitors who have made r
 ## Keaton's Feature: 
 
 ### Description
+The simple feature is a ratio of water area to total land area (including water) per census tract. This may be helpful in finding water features or waterfront locations, but doesn't seem to correlate with median yearly traffic. I'm not sure if the effects of water cancel out, or if it would be better to go for more of a latitude-based approach.
+
+![]()
+
+The complex feature measures shop density per 100 sqkm per census tract. In this case, it's the beverage NAICS code, but can easily be extended to include other codes. This metric is a good companion measure to population density to show where shop density is lagging behind population demand.
+
+![]()
+
 
 ### The Code
 [Link to Databricks notebook.]()
